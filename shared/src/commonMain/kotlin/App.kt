@@ -21,7 +21,10 @@ fun App() {
     MaterialTheme {
         var greetingText by remember { mutableStateOf("Hello, World!") }
         var showImage by remember { mutableStateOf(false) }
-        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
+        Column(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
             Button(onClick = {
                 greetingText = "Hello, ${getPlatformName()}"
                 showImage = !showImage
@@ -31,7 +34,7 @@ fun App() {
             AnimatedVisibility(showImage) {
                 Image(
                     painterResource("compose-multiplatform.xml"),
-                    null
+                    null,
                 )
             }
         }

@@ -1,4 +1,4 @@
-package com.myapplication
+package dev.musicapp
 
 import MainView
 import android.os.Bundle
