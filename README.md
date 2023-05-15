@@ -10,7 +10,7 @@ This project demonstrate the Online Music Streaming wuth **Compose Multiplatform
 
 <table style="width:100%">
   <tr>
-    <th>Movie List Screen</th>
+    <th>Home Screen</th>
   </tr>
   <tr>
     <td><img src = "https://github.com/swap-musale/Music-App-KMP/assets/125433713/08b185c9-6007-466c-a8d6-5f005b5b2ad2" width=250/></td> 
@@ -21,7 +21,7 @@ This project demonstrate the Online Music Streaming wuth **Compose Multiplatform
 
 <table style="width:100%">
   <tr>
-    <th>Movie List Screen</th>
+    <th>Home Screen</th>
   </tr>
   <tr>
     <td><img src = "https://github.com/swap-musale/Music-App-KMP/assets/125433713/0031dc95-5758-4fbf-8118-f41795c87583" width=250/></td> 
@@ -32,7 +32,7 @@ This project demonstrate the Online Music Streaming wuth **Compose Multiplatform
 
 <table style="width:100%">
   <tr>
-    <th>Movie List Screen</th>
+    <th>Home Screen</th>
   </tr>
   <tr>
     <td><img src = "https://github.com/swap-musale/Music-App-KMP/assets/125433713/31d22233-f6de-475c-b4ee-c8b6f61ae0df" width=450/></td> 
